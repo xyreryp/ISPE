@@ -14,3 +14,7 @@ o Combine the Calendar and Events page
 o Add iAngels as our sponsor
 o Make a Contact Us page, with our ISPE email and Facebook page (possibly include
 icons)
+
+
+
+https://docs.google.com/document/d/1TMZg8y-vkeHHY3FIQrr6LkrRmT2U-skZ_PqSLUmYrk4/edit
